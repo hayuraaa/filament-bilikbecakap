@@ -28,10 +28,10 @@
                     <ul>
                         <li><a href="/">Home</a></li>
                         <li><a href="/kamus">Kamus</a></li>
-                        <li><a href="/penerjemah.html">Penerjemah</a></li>
+                        <li><a href="/translate">Penerjemah</a></li>
                         <li><a href="./pembelajaran.html">Pembelajaran</a></li>
-                        <li><a href="./blog.html">Blog</a></li>
-                        <li><a href="./about.html">About Us</a></li>
+                        <li><a href="./blog">Blog</a></li>
+                        <li><a href="./about">About Us</a></li>
                     </ul>
                 </nav>
     
