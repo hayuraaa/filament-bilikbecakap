@@ -25,7 +25,7 @@ class User extends Authenticatable
 
     /**
      * The attributes that should be hidden for serialization.
-     *
+     * // user belom bisa menambahkan roles
      * @var array<int, string>
      */
     protected $hidden = [
